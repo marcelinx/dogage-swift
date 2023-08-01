@@ -12,6 +12,7 @@
 		0013E82C2A788D8000639C58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0013E82A2A788D8000639C58 /* Main.storyboard */; };
 		0013E82E2A788D8300639C58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0013E82D2A788D8300639C58 /* Assets.xcassets */; };
 		0013E8312A788D8300639C58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0013E82F2A788D8300639C58 /* LaunchScreen.storyboard */; };
+		0013E8392A78978F00639C58 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 0013E8382A78978F00639C58 /* cachorro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0013E82D2A788D8300639C58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0013E8302A788D8300639C58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0013E8322A788D8300639C58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0013E8382A78978F00639C58 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0013E8252A788D8000639C58 /* DogAge */ = {
 			isa = PBXGroup;
 			children = (
+				0013E8382A78978F00639C58 /* cachorro.png */,
 				0013E8262A788D8000639C58 /* AppDelegate.swift */,
 				0013E8282A788D8000639C58 /* ViewController.swift */,
 				0013E82A2A788D8000639C58 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0013E8392A78978F00639C58 /* cachorro.png in Resources */,
 				0013E8312A788D8300639C58 /* LaunchScreen.storyboard in Resources */,
 				0013E82E2A788D8300639C58 /* Assets.xcassets in Resources */,
 				0013E82C2A788D8000639C58 /* Main.storyboard in Resources */,
